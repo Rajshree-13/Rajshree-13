@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajshree-13
 - 👀 I’m interested in devloping innovative things.
-- 🌱 I’m currently pursuing my bachelor's degree in Technology at Dr. B. C. Roy Engineering College under the Computer Science and Engineering program. I keep a keen interest in learning Machine Learning algorithms and their applications in real-world and devlopement of web applications, implementing technologies like ReactJS and NodeJS.
+- 🌱 I’m currently pursuing my bachelor's degree in Technology at Dr. B. C. Roy Engineering College under the Computer Science and Engineering program. I keep a keen interest in Machine Learning algorithms and their applications in real-world and devlopement of web applications, implementing technologies like ReactJS and NodeJS.
 - 💞️ I’m looking forward to collaborate on endeavors that involve the application of Machine Learning Algorithms.
 - 📫 How to reach me ...connect me on LinkedIn (https://www.linkedin.com/in/rajshree-singh-559689290/) 
 - 
