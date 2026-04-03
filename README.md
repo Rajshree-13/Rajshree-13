@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Rajshree-13
-- 👀 I’m interested in devloping innovative things.
-- 🌱 I’m currently pursuing my bachelor's degree in Technology at Dr. B. C. Roy Engineering College under the Computer Science and Engineering program. I keep a keen interest in Machine Learning algorithms and their applications in real-world and devlopement of web applications, implementing technologies like ReactJS and NodeJS.
-- 💞️ I’m looking forward to collaborate on endeavors that involve the application of Machine Learning Algorithms.
-- 📫 How to reach me ...connect me on LinkedIn (https://www.linkedin.com/in/rajshree-singh-559689290/) 
-- 
-- ⚡ Fun fact: I have fixed bugs in my code while drinking masala chai, and it's as interesting as the spices in my tea!
+👋 Hi, I'm Rajshree Singh
+
+🚀 AIML Engineer at Capsitech
+🤖 Passionate about building intelligent systems and real-world AI applications
+
+🧠 About Me
+AIML Engineer with hands-on experience in developing and deploying machine learning solutions.
+Focused on building scalable APIs.
+Interested in solving real-world problems using data-driven approaches
+
+🛠️ Tech Stack
+Languages: Python and  JAVA.
+Frameworks: FastAPI and  Flask.
+Libraries: Pydantic, NumPy, Pandas and  Scikit-learn.
+Tools: Git and  GitHub.
+
+🚀 What I Do
+Build and deploy Machine Learning models.
+Develop high-performance APIs using FastAPI & Flask.
+Design data pipelines and validation systems using Pydantic.
+Work on real-world AI/ML applications.
+ 
+📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/rajshree123/
+
+⚡ Fun Fact
+I enjoy debugging models and code over a cup of masala chai ☕
+
 
 <!---
 Rajshree-13/Rajshree-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
