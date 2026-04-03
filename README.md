@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajshree Singh
 
-🚀 AIML Engineer at Capsitec  
+🚀 AIML Engineer at Capsitech. 
 🤖 Passionate about building intelligent systems and real-world AI applications  
 
 
